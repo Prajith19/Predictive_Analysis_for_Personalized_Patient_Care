@@ -4,3 +4,7 @@ The link ensures convenient access to the essential data, fostering a smooth and
 
 
 Driver Link "https://drive.google.com/drive/folders/1Q_a9wMcsfZ4RKJsopARY95ojk2SwHZGi?usp=sharing"
+
+In the drive folder there are two main folders 
+folder "Datasets_main.py" contains the datasets that are required to run the main.py code
+folder "Datasets_Detailed_Recommendation_System" contains the datasets that are required to run the Recommendation system detailed code
